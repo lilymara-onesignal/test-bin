@@ -1,0 +1,2 @@
+[registries]
+nate-mara-alt-crates = { index = "https://dl.cloudsmith.io/public/nate-mara/alt-crates/cargo/index.git" }
